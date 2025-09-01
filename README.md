@@ -1,6 +1,6 @@
-DATASCI 507 - Data Science and Analytics using Python<br>
-Credits: 3<br>
-Instructor: Zhang,Xian<br>
-Start/End Date: 8/25/25 - 12/8/25<br>
-Description:（official）: This course surveys some of the tools and frameworks currently popular among data scientists and machine learning practitioners in academia and industry. The first half of the course consists of an accelerated introduction to the Python programming language, including brief introductions to object-oriented and functional programming styles as well as tools for code optimization. The second half of the course will survey tools for handling structured data (regular expressions, HTML/JSON, databases), data visualization, numerical and symbolic computing, interacting with the UNIX/Linux command line, and large-scale distributed computing. Several modern inferential techniques arising in machine learning and applied statistics will be reviewed.<br>
-The purpose of the repository: I’m publishing this repository to systematically document each task, track my learning progress, and reflect on what I’ve learned. I also invite classmates to discuss the course and assignments—sharing ideas, questions, and feedback—to deepen our understanding together.<br>
+  DATASCI 507 - Data Science and Analytics using Python<br>
+  Credits: 3<br>
+  Instructor: Zhang,Xian<br>
+  Start/End Date: 8/25/25 - 12/8/25<br>
+  Description:（official）: This course surveys some of the tools and frameworks currently popular among data scientists and machine learning practitioners in academia and industry. The first half of the course consists of an accelerated introduction to the Python programming language, including brief introductions to object-oriented and functional programming styles as well as tools for code optimization. The second half of the course will survey tools for handling structured data (regular expressions, HTML/JSON, databases), data visualization, numerical and symbolic computing, interacting with the UNIX/Linux command line, and large-scale distributed computing. Several modern inferential techniques arising in machine learning and applied statistics will be reviewed.<br>
+  The purpose of the repository: I’m publishing this repository to systematically document each task, track my learning progress, and reflect on what I’ve learned. I also invite classmates to discuss the course and assignments—sharing ideas, questions, and feedback—to deepen our understanding together.<br>
